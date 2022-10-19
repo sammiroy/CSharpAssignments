@@ -86,7 +86,7 @@
                 Console.ReadLine();
 
                 // Check if an ending state has been achieved
-                if (playerPos >= trackLength || enemyPos >= trackLength)
+                if (playerPos >= trackLength-1 || enemyPos >= trackLength-1)
                 {
                     noWinner = false;
                 }
