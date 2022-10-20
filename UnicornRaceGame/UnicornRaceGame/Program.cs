@@ -7,8 +7,7 @@ internal class Program
         // INIT VARS
         // Unset Variables
         string playerInput;
-        int trackLength;
-        
+        int trackLength; 
         Random roll = new Random();
 
         // Set Variables
