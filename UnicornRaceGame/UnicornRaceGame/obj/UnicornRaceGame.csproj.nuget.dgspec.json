@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpAssignments\\UnicornRaceGame\\UnicornRaceGame\\UnicornRaceGame.csproj": {}
+    "C:\\Users\\sammi\\OneDrive\\Documents\\GitHub\\CSharpAssignments\\UnicornRaceGame\\UnicornRaceGame\\UnicornRaceGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpAssignments\\UnicornRaceGame\\UnicornRaceGame\\UnicornRaceGame.csproj": {
+    "C:\\Users\\sammi\\OneDrive\\Documents\\GitHub\\CSharpAssignments\\UnicornRaceGame\\UnicornRaceGame\\UnicornRaceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpAssignments\\UnicornRaceGame\\UnicornRaceGame\\UnicornRaceGame.csproj",
+        "projectUniqueName": "C:\\Users\\sammi\\OneDrive\\Documents\\GitHub\\CSharpAssignments\\UnicornRaceGame\\UnicornRaceGame\\UnicornRaceGame.csproj",
         "projectName": "UnicornRaceGame",
-        "projectPath": "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpAssignments\\UnicornRaceGame\\UnicornRaceGame\\UnicornRaceGame.csproj",
-        "packagesPath": "C:\\Users\\sroy33\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpAssignments\\UnicornRaceGame\\UnicornRaceGame\\obj\\",
+        "projectPath": "C:\\Users\\sammi\\OneDrive\\Documents\\GitHub\\CSharpAssignments\\UnicornRaceGame\\UnicornRaceGame\\UnicornRaceGame.csproj",
+        "packagesPath": "C:\\Users\\sammi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sammi\\OneDrive\\Documents\\GitHub\\CSharpAssignments\\UnicornRaceGame\\UnicornRaceGame\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sroy33\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sammi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
