@@ -1,0 +1,15 @@
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\bin\Debug\net6.0\Assignment3Part2-SammiRoy.exe
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\bin\Debug\net6.0\Assignment3Part2-SammiRoy.deps.json
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\bin\Debug\net6.0\Assignment3Part2-SammiRoy.runtimeconfig.json
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\bin\Debug\net6.0\Assignment3Part2-SammiRoy.dll
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\bin\Debug\net6.0\Assignment3Part2-SammiRoy.pdb
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\obj\Debug\net6.0\Assignment3Part2-SammiRoy.csproj.AssemblyReference.cache
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\obj\Debug\net6.0\Assignment3Part2-SammiRoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\obj\Debug\net6.0\Assignment3Part2-SammiRoy.AssemblyInfoInputs.cache
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\obj\Debug\net6.0\Assignment3Part2-SammiRoy.AssemblyInfo.cs
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\obj\Debug\net6.0\Assignment3Part2-SammiRoy.csproj.CoreCompileInputs.cache
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\obj\Debug\net6.0\Assignment3Part2-SammiRoy.dll
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\obj\Debug\net6.0\refint\Assignment3Part2-SammiRoy.dll
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\obj\Debug\net6.0\Assignment3Part2-SammiRoy.pdb
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\obj\Debug\net6.0\Assignment3Part2-SammiRoy.genruntimeconfig.cache
+C:\Users\sammi\OneDrive\Documents\GitHub\CSharpAssignments\Assignment3Part2-SammiRoy\Assignment3Part2-SammiRoy\obj\Debug\net6.0\ref\Assignment3Part2-SammiRoy.dll
