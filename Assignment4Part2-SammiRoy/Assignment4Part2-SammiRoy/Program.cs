@@ -5,6 +5,9 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        WriteLine("Hello, World!");
+        MultipleChoiceQuestion question = new MultipleChoiceQuestion();
+        
+        question.QuestionText = "Enter a string";
+        WriteLine(question.QuestionText);
     }
 }
