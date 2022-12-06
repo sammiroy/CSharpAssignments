@@ -5,10 +5,24 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        GetMenuChoice();
+        // Initiate Variables
+        bool loop = true;
+        int menuChoice;
+
+        // Init Arrays & Randomizer
+        Random rand = new Random();
+
+
+        while (loop)
+        {
+            menuChoice = GetMenuChoice();
+            ParseChoice(menuChoice, ref loop);
+        }
     }
 
-    // Display Menu, process information
+    /// <summary>
+    /// Displays the menu
+    /// </summary>
     static void DisplayMenu()
     {
         Clear();
@@ -46,6 +60,34 @@ internal class Program
         // Return valid input
         int selection = int.Parse(userInput);
         return selection;
+    }
+
+    static void ParseChoice(int userChoice,ref bool loop)
+    {
+        switch (userChoice)
+        {
+            case 0:
+                // Break game loop, quitting program
+                loop = false;
+                break;
+            case 1:
+                // Change Lotto MAX winning numbers
+
+                break;
+            case 2:
+                break;
+            case 3:
+                break;
+            case 4:
+                break;
+            case 5:
+                break;
+        }
+    }
+
+    static void AlterLottoMax()
+    {
+
     }
 
     /// <summary>
