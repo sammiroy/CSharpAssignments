@@ -1,0 +1,15 @@
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\bin\Debug\net6.0\Assignment4Part2-SammiRoy.exe
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\bin\Debug\net6.0\Assignment4Part2-SammiRoy.deps.json
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\bin\Debug\net6.0\Assignment4Part2-SammiRoy.runtimeconfig.json
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\bin\Debug\net6.0\Assignment4Part2-SammiRoy.dll
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\bin\Debug\net6.0\Assignment4Part2-SammiRoy.pdb
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\obj\Debug\net6.0\Assignment4Part2-SammiRoy.csproj.AssemblyReference.cache
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\obj\Debug\net6.0\Assignment4Part2-SammiRoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\obj\Debug\net6.0\Assignment4Part2-SammiRoy.AssemblyInfoInputs.cache
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\obj\Debug\net6.0\Assignment4Part2-SammiRoy.AssemblyInfo.cs
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\obj\Debug\net6.0\Assignment4Part2-SammiRoy.csproj.CoreCompileInputs.cache
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\obj\Debug\net6.0\Assignment4Part2-SammiRoy.dll
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\obj\Debug\net6.0\refint\Assignment4Part2-SammiRoy.dll
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\obj\Debug\net6.0\Assignment4Part2-SammiRoy.pdb
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\obj\Debug\net6.0\Assignment4Part2-SammiRoy.genruntimeconfig.cache
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpAssignments\Assignment4Part2-SammiRoy\Assignment4Part2-SammiRoy\obj\Debug\net6.0\ref\Assignment4Part2-SammiRoy.dll
