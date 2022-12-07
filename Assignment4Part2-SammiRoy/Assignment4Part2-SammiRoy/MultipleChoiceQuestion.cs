@@ -27,7 +27,7 @@ namespace Assignment4Part2_SammiRoy
 
             set
             {
-                _questionText = UtilityMethods.GetNonEmptyString(value);
+                _questionText = value;
             }
         }
 
@@ -99,6 +99,14 @@ namespace Assignment4Part2_SammiRoy
 
         }
 
-        public MultipleChoiceQuestion()
+        public MultipleChoiceQuestion(string questionText, string answertext1, string answertext2, string answertext3, string answertext4, int correctanswer)
+        {
+            QuestionText = questionText;
+            AnswerText1 = answertext1;
+            AnswerText2 = answertext2;
+            AnswerText3 = answertext3;
+            AnswerText4 = answertext4;
+            CorrectAnswer = correctanswer;
+        }
     }
 }
